@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Sida feature.
+ */
+
+include_once 'sida.features.inc';
